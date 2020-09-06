@@ -1,6 +1,6 @@
 module github.com/remind101/tugboat
 
-go 1.14
+go 1.13
 
 require (
 	github.com/codegangsta/cli v1.3.1-0.20140923033435-f7ebb761e83e
