@@ -1,7 +1,7 @@
 version: 2
 
 defaults: &defaults
-  working_directory: /home/circleci/go/src/github.com/remind101/empire
+  working_directory: /home/circleci/go/src/github.com/remind101/tugboat
 
 workflows:
   version: 2
